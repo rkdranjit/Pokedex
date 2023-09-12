@@ -1,0 +1,8 @@
+.pokemon-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pokemon-wrapper > h1{
+    letter-spacing: 20px;
+}
